@@ -12,4 +12,3 @@ function descendingOrder(n){
 }
 
 descendingOrder(42145);
-
