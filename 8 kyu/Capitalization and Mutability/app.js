@@ -12,3 +12,5 @@ function capitalizeWord(word) {
       sp.unshift(start)
       return sp.join('')
   }
+
+  
